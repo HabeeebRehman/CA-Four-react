@@ -1,0 +1,25 @@
+.first {
+    height: 100vh;
+}
+
+.theme-btn {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.header h1 {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+    font-size: 40px;
+    background-color: red;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    padding: 28px;
+}

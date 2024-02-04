@@ -1,0 +1,26 @@
+.results {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7%;
+}
+
+.results h1 {
+    font-size: 55px;
+}
+
+.results h3 {
+    font-size: 45px;
+}
+
+.results button {
+    margin-top: 20px;
+    width: 350px;
+    height: 70px;
+    background-color: #FF4500;
+    color: white;
+    border-radius: 50px;
+    font-size: 40px;
+    border: none;
+}
